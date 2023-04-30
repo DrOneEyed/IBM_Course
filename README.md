@@ -9,4 +9,4 @@ It is a myth that to become a data scientist you need a Ph.D. This Professional 
 
 Upon successfully completing these courses you will have done several hands-on assignments and built a portfolio of data science projects to provide you with the confidence to plunge into an exciting profession in Data Science. In addition to earning a Professional Certificate from Coursera, you will also receive a digital Badge from IBM recognizing your proficiency in Data Science.
 
-## Peer-graded Assignment: Capstone Project Notebook's
+## Peer-graded Assignment: Capstone Project
